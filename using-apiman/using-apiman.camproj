@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Project_Data Version="8.00">
 <Project_Settings>
-<ProfileName></ProfileName>
+<ProfileName>MP4 only (up to 720p)</ProfileName>
 <ProjectWidth>1280</ProjectWidth>
 <ProjectHeight>720</ProjectHeight>
 <IsCustomProject>1</IsCustomProject>
@@ -12,7 +12,7 @@
 
 <AutoSaveFile>C:\Users\ewittman\AppData\Local\TechSmith\Camtasia Studio\8.0\Auto-Saves\using-apimanbb703bd.autosave.camproj</AutoSaveFile>
 
-<ProjectID>B3FB4709-931A-40D6-B4F5-28EE139C9CA3</ProjectID>
+<ProjectID>E18ED1BA-75D6-422A-972D-AB4C8343FE34</ProjectID>
 
 <PowerPointProject>0</PowerPointProject>
 
@@ -59,7 +59,7 @@
     <Source id="8" src="C:\Users\ewittman\git\apiman-videos\using-apiman\audio\intro.mp3" lastMod="20141115T200500" rect="(0,0,0,0)" >
       <SourceTrack range="(0,736000000)" type="2" editRate="10000000/1" trackRect="(0,0,0,0)" sampleRate="44100/1" bitDepth="0" numChannels="2" filename="" metaData="" />
     </Source>
-    <Source id="9" src="C:\Users\ewittman\git\apiman-videos\using-apiman\screenshots\intro-1.png" lastMod="20141115T154227" rect="(0,0,1280,720)" >
+    <Source id="9" src="C:\Users\ewittman\git\apiman-videos\using-apiman\screenshots\intro-1.png" lastMod="20141120T210446" rect="(0,0,1280,720)" >
       <SourceTrack range="(0,1)" type="1" editRate="10000000/1" trackRect="(0,0,1280,720)" sampleRate="0/1" bitDepth="32" numChannels="0" filename="" metaData="" />
     </Source>
     <Source id="10" src="C:\Users\ewittman\git\apiman-videos\using-apiman\screenshots\intro-2.png" lastMod="20141115T154316" rect="(0,0,1280,720)" >
@@ -2197,7 +2197,7 @@
           <Entry key="ZoomPanBin">
            <ZoomPanBin id="1135"  >
             <ZoomPanKeyframes>
-             <ZoomPanKeyframe id="1136" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName=""  />
+             <ZoomPanKeyframe id="1136" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName="linr"  />
             </ZoomPanKeyframes>
            </ZoomPanBin>
           </Entry>
@@ -2276,7 +2276,7 @@
              <Entry key="ZoomPanBin">
               <ZoomPanBin id="1178"  >
                <ZoomPanKeyframes>
-                <ZoomPanKeyframe id="1179" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName=""  />
+                <ZoomPanKeyframe id="1179" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName="linr"  />
                </ZoomPanKeyframes>
               </ZoomPanBin>
              </Entry>
@@ -2540,7 +2540,7 @@
              <Entry key="ZoomPanBin">
               <ZoomPanBin id="1403"  >
                <ZoomPanKeyframes>
-                <ZoomPanKeyframe id="1404" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName=""  />
+                <ZoomPanKeyframe id="1404" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName="linr"  />
                </ZoomPanKeyframes>
               </ZoomPanBin>
              </Entry>
@@ -3071,7 +3071,7 @@
           <Entry key="ZoomPanBin">
            <ZoomPanBin id="1707"  >
             <ZoomPanKeyframes>
-             <ZoomPanKeyframe id="1708" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName=""  />
+             <ZoomPanKeyframe id="1708" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName="linr"  />
             </ZoomPanKeyframes>
            </ZoomPanBin>
           </Entry>
@@ -3150,7 +3150,7 @@
              <Entry key="ZoomPanBin">
               <ZoomPanBin id="1750"  >
                <ZoomPanKeyframes>
-                <ZoomPanKeyframe id="1751" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName=""  />
+                <ZoomPanKeyframe id="1751" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName="linr"  />
                </ZoomPanKeyframes>
               </ZoomPanBin>
              </Entry>
@@ -3381,7 +3381,7 @@
              <Entry key="ZoomPanBin">
               <ZoomPanBin id="1942"  >
                <ZoomPanKeyframes>
-                <ZoomPanKeyframe id="1943" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName=""  />
+                <ZoomPanKeyframe id="1943" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName="linr"  />
                </ZoomPanKeyframes>
               </ZoomPanBin>
              </Entry>
@@ -3657,7 +3657,7 @@
           <Entry key="ZoomPanBin">
            <ZoomPanBin id="2085"  >
             <ZoomPanKeyframes>
-             <ZoomPanKeyframe id="2086" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName=""  />
+             <ZoomPanKeyframe id="2086" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName="linr"  />
             </ZoomPanKeyframes>
            </ZoomPanBin>
           </Entry>
@@ -3736,7 +3736,7 @@
              <Entry key="ZoomPanBin">
               <ZoomPanBin id="2128"  >
                <ZoomPanKeyframes>
-                <ZoomPanKeyframe id="2129" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName=""  />
+                <ZoomPanKeyframe id="2129" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName="linr"  />
                </ZoomPanKeyframes>
               </ZoomPanBin>
              </Entry>
@@ -4031,7 +4031,7 @@
              <Entry key="ZoomPanBin">
               <ZoomPanBin id="2384"  >
                <ZoomPanKeyframes>
-                <ZoomPanKeyframe id="2385" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName=""  />
+                <ZoomPanKeyframe id="2385" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName="linr"  />
                </ZoomPanKeyframes>
               </ZoomPanBin>
              </Entry>
@@ -4196,7 +4196,7 @@
           <Entry key="ZoomPanBin">
            <ZoomPanBin id="2472"  >
             <ZoomPanKeyframes>
-             <ZoomPanKeyframe id="2473" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName=""  />
+             <ZoomPanKeyframe id="2473" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName="linr"  />
             </ZoomPanKeyframes>
            </ZoomPanBin>
           </Entry>
@@ -4275,7 +4275,7 @@
              <Entry key="ZoomPanBin">
               <ZoomPanBin id="2515"  >
                <ZoomPanKeyframes>
-                <ZoomPanKeyframe id="2516" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName=""  />
+                <ZoomPanKeyframe id="2516" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName="linr"  />
                </ZoomPanKeyframes>
               </ZoomPanBin>
              </Entry>
@@ -4454,7 +4454,7 @@
              <Entry key="ZoomPanBin">
               <ZoomPanBin id="2655"  >
                <ZoomPanKeyframes>
-                <ZoomPanKeyframe id="2656" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName=""  />
+                <ZoomPanKeyframe id="2656" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName="linr"  />
                </ZoomPanKeyframes>
               </ZoomPanBin>
              </Entry>
@@ -4974,7 +4974,7 @@
           <Entry key="ZoomPanBin">
            <ZoomPanBin id="2942"  >
             <ZoomPanKeyframes>
-             <ZoomPanKeyframe id="2943" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName=""  />
+             <ZoomPanKeyframe id="2943" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName="linr"  />
             </ZoomPanKeyframes>
            </ZoomPanBin>
           </Entry>
@@ -5053,7 +5053,7 @@
              <Entry key="ZoomPanBin">
               <ZoomPanBin id="2985"  >
                <ZoomPanKeyframes>
-                <ZoomPanKeyframe id="2986" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName=""  />
+                <ZoomPanKeyframe id="2986" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName="linr"  />
                </ZoomPanKeyframes>
               </ZoomPanBin>
              </Entry>
@@ -5396,7 +5396,7 @@
              <Entry key="ZoomPanBin">
               <ZoomPanBin id="3289"  >
                <ZoomPanKeyframes>
-                <ZoomPanKeyframe id="3290" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName=""  />
+                <ZoomPanKeyframe id="3290" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName="linr"  />
                </ZoomPanKeyframes>
               </ZoomPanBin>
              </Entry>
@@ -5561,7 +5561,7 @@
           <Entry key="ZoomPanBin">
            <ZoomPanBin id="3377"  >
             <ZoomPanKeyframes>
-             <ZoomPanKeyframe id="3378" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName=""  />
+             <ZoomPanKeyframe id="3378" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName="linr"  />
             </ZoomPanKeyframes>
            </ZoomPanBin>
           </Entry>
@@ -5640,7 +5640,7 @@
              <Entry key="ZoomPanBin">
               <ZoomPanBin id="3420"  >
                <ZoomPanKeyframes>
-                <ZoomPanKeyframe id="3421" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName=""  />
+                <ZoomPanKeyframe id="3421" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName="linr"  />
                </ZoomPanKeyframes>
               </ZoomPanBin>
              </Entry>
@@ -5894,7 +5894,7 @@
              <Entry key="ZoomPanBin">
               <ZoomPanBin id="3635"  >
                <ZoomPanKeyframes>
-                <ZoomPanKeyframe id="3636" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName=""  />
+                <ZoomPanKeyframe id="3636" timeRangeEnd="-9999999/1" timeRangeDuration="0/1" interpolaterName="linr"  />
                </ZoomPanKeyframes>
               </ZoomPanBin>
              </Entry>
